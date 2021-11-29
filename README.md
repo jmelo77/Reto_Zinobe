@@ -25,7 +25,7 @@ python -m pip install -r requirements.txt
 + Tomar el diccionario de países y crear un dataframe con la librería pandas.
 + Encriptar en SHA1 el idioma de los paises.
 + Convertir el dataframe mencionado antes en una archivo JSON, con el comando .to_json().
-+ Convertir el data frame mencionado antes en una base de datos sqlite, con el comando .to_sql().
++ Convertir el dataframe mencionado antes en una base de datos sqlite, con el comando .to_sql().
 
 ## Proceso ETL
 
