@@ -4,7 +4,7 @@
 
 + [Python 3.7.6](https://www.python.org/downloads/release/python-376/).
 + Se utilizo la libreria [Pandas](https://pypi.org/project/pandas/).
-+ Para las pruebas unitarias se utilizo la libreria [Unittest](https://pypi.org/project/unittest/) y la aplicación Postman.    
++ Para las pruebas unitarias se utilizo la libreria [Unittest](https://pypi.org/project/unittest/).    
 
 ## Prerequisitos
 
